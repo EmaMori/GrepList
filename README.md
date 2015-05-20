@@ -1,2 +1,2 @@
 # GrepList
-GrepList
+よく使う正規表現をまとめたものです。
